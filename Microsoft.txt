@@ -50,3 +50,17 @@ incidents.diagnostics.office.com
 logging.diagnostics.office.com
 msa.diagnostics.office.com
 supportexperience.diagnostics.office.com
+mobile.events.data.microsoft.com
+au-mobile.events.data.microsoft.com
+eu-mobile.events.data.microsoft.com
+in-mobile.events.data.microsoft.com
+jp-mobile.events.data.microsoft.com
+uk-mobile.events.data.microsoft.com
+us-mobile.events.data.microsoft.com
+mobile.events.data.trafficmanager.net
+au.events.data.trafficmanager.net
+eu.events.data.trafficmanager.net
+in.events.data.trafficmanager.net
+jp.events.data.trafficmanager.net
+uk.events.data.trafficmanager.net
+us.events.data.trafficmanager.net
