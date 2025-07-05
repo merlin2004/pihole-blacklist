@@ -11,4 +11,8 @@
 # Dark Spider DNS Blacklists
 # Optimized for PiHole
 # 
+# 
+# Privacy empowers freedom and builds trust in a connected world.
+# 
+# 
 </pre></sub>
