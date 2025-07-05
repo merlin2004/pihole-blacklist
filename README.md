@@ -12,7 +12,7 @@
 # Optimized for PiHole
 # 
 # 
-# Privacy empowers freedom and builds trust in a connected world.
+# **** Privacy empowers freedom and builds trust in a connected world. ****
 # 
 # 
 </pre></sub>
